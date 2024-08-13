@@ -1,4 +1,4 @@
- 
+![alt text](https://github.com/AbnormalMatrix/spin-monkey/blob/master/Screenshot%20from%202024-08-13%2010-12-50.png?raw=true) 
 
 
 > Open this page at [https://abnormalmatrix.github.io/spin-monkey/](https://abnormalmatrix.github.io/spin-monkey/)
